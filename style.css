@@ -101,3 +101,15 @@ body{
 .wind-p{
     font-size: 20px;
 }
+.weather-menu{
+    display: none;
+}
+    
+.error{
+    align-items: left;
+    padding: 0 80px;
+    display: none;
+    color: black;
+    font-weight: 300px;
+}
+
